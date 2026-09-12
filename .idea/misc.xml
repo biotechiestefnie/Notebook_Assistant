@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11 (Notebook_Assistant)" />
+  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -10,8 +13,5 @@
         </selected-state>
       </profile-state>
     </entry>
-  </component>
-  <component name="TerminalProjectNonSharedOptionsProvider">
-    <option name="startingDirectory" value="$PROJECT_DIR$/../Final-Problem-Set" />
   </component>
 </project>
